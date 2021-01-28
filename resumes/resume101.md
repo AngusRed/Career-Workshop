@@ -19,10 +19,10 @@ Uniformity: Is the resume uniform is structure and layout throughout? (Having a 
 
 Sellability
 What does the candidate believe sells them best? Typically I feel there are 4 core aspects.
-Community Engagement: Speaker, Volt, Organizer, Workshopper at Sec Cons
-Experience: Does the candidate possess a true wealth of experience?
-Education: Did they attend and get a Masters+ from a uni like Johns Hopkins, Carnegie, MIT etc?
-Certifications: Does the candidate have some certs that are less common? OSCP is great, but do they also have OSCE, OSEE, OSEP, SANS GREM, GXPN etc?
+1.	Community Engagement: Speaker, Volt, Organizer, Workshopper at Sec Cons
+2.	Experience: Does the candidate possess a true wealth of experience?
+3.	Education: Did they attend and get a Masters+ from a uni like Johns Hopkins, Carnegie, MIT etc?
+4.	Certifications: Does the candidate have some certs that are less common? OSCP is great, but do they also have OSCE, OSEE, OSEP, SANS GREM, GXPN etc?
 NB: Candidate can lead with certs (Their best) towards the top of their resume, then have lesser LEET certs towards the end of the resume under “Further Certifications”
 
 By understanding which of the top 4 points sells the candidate best, we would want them to lead with that from the resume, IE top to bottom. The 4 titles above represent sections
@@ -34,21 +34,23 @@ Summary: Summaries either add value or simply take up space. Is the candidate lo
 
 Summary Stucture: Summaries can be formatted specifically. Ideally cover 4-5 points in 2-4 sentences.
 
-Where do you come from?
+
+1.	Where do you come from?
 Not location wise. Where have you come from professionally? Where did this all start?
-What are you doing now?
+2.	What are you doing now?
 What is your current role, without needing to rehash what will be listed below in Exp? Eg for a SOC Engineer “....I currently help build, scale and deploy advanced SIEM Solutions..”
-What do you want to be doing?:  What is the candidate working towards? Career change, growth, etc
-What are you doing NOW to get to where you WANT to go?: What is the candidate doing atm to get to their goal?
-Interesting Point: Community highlight, quirky hobby, big achievement
+3.	What do you want to be doing?:  What is the candidate working towards? Career change, growth, etc
+4.	What are you doing NOW to get to where you WANT to go?: What is the candidate doing atm to get to their goal?
+5.	Interesting Point: Community highlight, quirky hobby, big achievement
 
 Why the above? By number
 
-This tells us what the backstory is
-Gives us an idea of what they are doing
-This shows desire to challenge, grow and excel
-Shows you are focussed and can make plans to follow
-Something to remember you by
+
+1.	This tells us what the backstory is
+2.	Gives us an idea of what they are doing
+3.	This shows desire to challenge, grow and excel
+4.	Shows you are focussed and can make plans to follow
+5.	Something to remember you by
 
 
 
@@ -72,7 +74,6 @@ Client information: Does the candidate disclose current or recent clients SPECIF
 PII: Does the candidate disclose too much PII that is unnecessary?
 Stack in use: Does the candidate share too much information to the stack, services and infrastructure they are currently using at their employer? This is a unneeded risk.
 
-
 To Do:
 
 1-2 Pages
@@ -82,3 +83,4 @@ Color?
 End Client Disclosure
 Resume fit for purpose
 X-Factor
+
